@@ -29,8 +29,7 @@
 
 ## 📌 Pinned Repos
 
-- **[tactiq](https://github.com/sajid-shahriar007/tactiq)** — JavaScript
-- **[tactiq-server](https://github.com/sajid-shahriar007/tactiq-server)** — JavaScript
+- **[Task_Manager-App](https://github.com/sajid-shahriar007/Task_Manager-App)** — TypeScript, JavaScript 
 - **[CSE-321-Project](https://github.com/sajid-shahriar007/CSE-321-Project)** — C
 - **[CSE-423-Laball](https://github.com/sajid-shahriar007/CSE-423-Laball)** — Python
 - **[face-mask-detection](https://github.com/sajid-shahriar007/face-mask-detection)** — Face mask detection using MobileNetV2 and OpenCV (Python)
