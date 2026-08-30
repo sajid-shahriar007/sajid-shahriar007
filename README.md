@@ -21,6 +21,8 @@
 ![streak stats](https://github-readme-streak-stats-salesp07.vercel.app/?user=sajid-shahriar007&count_private=true&theme=react&border_radius=10)
 ![readme stats](https://github-readme-stats-salesp07.vercel.app/api?username=sajid-shahriar007&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 ![top langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sajid-shahriar007&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=portfolio&logoColor=red)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=LinkedIn&logoColor=white&label=)](YOUR_LINKEDIN_URL)
 
 ---
 
