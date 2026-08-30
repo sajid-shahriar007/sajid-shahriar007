@@ -6,7 +6,7 @@
 
 🌱 **Software Engineer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=portfolio&logoColor=red)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=portfolio&logoColor=red)](https://sajid-shahriar007.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=LinkedIn&logoColor=white&label=)](YOUR_LINKEDIN_URL)
 
 ---
